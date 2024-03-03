@@ -93,6 +93,11 @@ body {
     font-size: large;
 }
 
+.inicio__horario__docs__strong{
+    font-size: 1em;
+    font-weight: bold;
+}
+
 .inicio__links__link:hover{
     background-color: var(--cor-terciaria);
     transform: scale(1.05);
