@@ -93,10 +93,11 @@ body {
     font-size: large;
 }
 
-.inicio__horario__h2{
-    font-size: 1.5rem;
+.inicio__horario__docs__h2{
+    font-size: 2em;
     font-weight: bolder;
-    color: var(--cor-terciaria);
+    color: var(--cor-secundaria);
+    font-family: var(--fonte-primaria);
 }
 
 .inicio__horario__docs__strong{
