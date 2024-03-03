@@ -5,6 +5,11 @@ const urls = [
     // Adicione mais URLs conforme necessário
 ];
 
+const divIds = [
+    'horario',
+    'conteudoprova',
+];
+
 // Função para fazer fetch de uma página
 async function fetchPagina(url, divId) {
     try {
@@ -17,7 +22,7 @@ async function fetchPagina(url, divId) {
     }
 }
 
-fetchPagina('conteudo.txt', 'horario')
-fetchPagina('conteudoprova.txt', 'conteudoprova')
+for (let i = 0; i < Math.min(urls.length, divIds.length); i++) {
+    fetchPagina(urls[i], divIds[i]);
 
 
