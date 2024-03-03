@@ -15,7 +15,7 @@ async function fetchPagina(url, divId) {
     try {
         const response = await fetch(url);
         const data = await response.text();
-        document.getElementById(divId).innerHTML = data;
+        document.getElementById(divId).innerHTML = `<p>${data}</p>`;
         // Aqui você pode processar o conteúdo da página como desejar
     } catch (error) {
         console.error(`Erro ao buscar a página ${url}:`, error);
