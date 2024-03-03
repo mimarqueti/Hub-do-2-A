@@ -1,1 +1,0 @@
-Utilizando, no CSS, cor azul de principal, preto de fundo e branco para texto. A fontes são Montserrat e Rubik
