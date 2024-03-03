@@ -100,3 +100,33 @@ body {
     background-color: blue;
     transform: scale(0.95);
 }
+
+@media (max-width: 1200px) {
+    .cabecalho {
+        padding: 6%;
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .cabecalho__menu {
+        justify-content: center;
+        gap: 15%;
+        padding: 0 10% 0 0;
+    }
+    .inicio {
+        display: flex;
+        flex-direction: column;
+        padding: 10%;
+    }
+
+    .inicio__apresentacao {
+        width: auto;
+        align-items: center;
+    }
+
+    .inicio__links {
+        gap: 0;
+    }
+
+
+}
