@@ -57,6 +57,7 @@ body {
     width: 50%;
     font-family: var(--fonte-primaria);
     font-weight: normal;
+    font-size: 2rem;
     color: var(--cor-secundaria);
 }
 
@@ -77,6 +78,7 @@ body {
     border-radius: 15px;
     padding: 5% 8%;
     transition: transform 0.3s, background-color 0.3s;
+    gap: 20%;
 }
 
 
@@ -101,6 +103,7 @@ body {
     transform: scale(0.95);
 }
 
+/* celular */
 @media (max-width: 1200px) {
     .cabecalho {
         padding: 6%;
@@ -113,6 +116,11 @@ body {
         gap: 15%;
         padding: 0 10% 0 0;
     }
+
+    .cabecalho__menu__link{
+        font-size: 1.0rem;
+    }
+
     .inicio {
         display: flex;
         flex-direction: column;
@@ -122,6 +130,7 @@ body {
     .inicio__apresentacao {
         width: auto;
         align-items: center;
+        font-size: 1.25rem;
     }
 
     .inicio__links {

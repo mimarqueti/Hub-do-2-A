@@ -1,15 +1,28 @@
-// Função para buscar o conteúdo do arquivo de texto
-function buscarConteudoArquivo() {
-    fetch('conteudo.txt')
-        .then(response => response.text())
-        .then(data => {
-            // Atualiza o conteúdo da div com id "conteudo" com o texto do arquivo
-            document.getElementById('conteudo').textContent = data;
-        })
-        .catch(error => {
-            console.error('Ocorreu um erro ao buscar o arquivo de texto:', error);
-        });
+// Array de URLs das páginas
+const urls = [
+    'textos/conteudo.txt',
+    'textos/conteudoprova.txt',
+    // Adicione mais URLs conforme necessário
+];
+
+const divIds = [
+    'horario',
+    'conteudoprova',
+];
+
+// Função para fazer fetch de uma página
+async function fetchPagina(url, divId) {
+    try {
+        const response = await fetch(url);
+        const data = await response.text();
+        document.getElementById(divId).innerHTML = data;
+        // Aqui você pode processar o conteúdo da página como desejar
+    } catch (error) {
+        console.error(`Erro ao buscar a página ${url}:`, error);
+    }
 }
 
-// Chamada inicial para buscar o conteúdo do arquivo de texto
-buscarConteudoArquivo();
+for (let i = 0; i < Math.min(urls.length, divIds.length); i++) {
+    fetchPagina(urls[i], divIds[i]);
+
+
