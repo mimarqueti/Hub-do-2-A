@@ -1,17 +1,22 @@
- <p class="inicio__horario__docs" > <strong class="inicio__horario__docs__strong">-Segunda-feira </strong> <br>
-                  Mat IF - Mat IF / Mat FGB - Mat FGB / Bio IF - Bio IF // Port - Port / Fis IF - Fis IF <br>
-                <strong class="inicio__horario__docs__strong">-Terça-feira</strong> <br>
-                  Redação - Redação / Proj. de Vida - Literatura / Fis FGB - Fis FGB <br>
-                <strong class="inicio__horario__docs__strong">-Quarta-feira</strong> <br>
-                  Geo - Geo / Qui FGB - Qui FGB / Qui IF - Qui IF <br>
-                <strong class="inicio__horario__docs__strong">-Quinta-Feira</strong> <br> 
-                  Bio FGB - Bio FGB / Filo - Mat FGB / Arte - Ing // Eletiva - Eletiva <br>
-                <strong class="inicio__horario__docs__strong">-Sexta-Feira</strong> <br>
-                  Prova - Prova / His - His / Ed. Fis - Ed. Fis <br>
-                <br>
-                <strong class="inicio__horario__docs__strong">-AVISOS-</strong> <br>
-                07/03 - Quinta-Feira <br>
-                  -Apresentação AT de Inglês <br> 
-                11/03 - Segunda-Feira <br>
-                  -Realização AT de Português <br> 
-            </p>
+ <p > 
+<strong class="inicio__horario__docs__strong">-Segunda-feira </strong> <br>
+Mat IF - Mat IF / Mat FGB - Mat FGB / Bio IF - Bio IF // Port - Port / Fis IF - Fis IF <br>
+<br>
+<strong class="inicio__horario__docs__strong">-Terça-feira</strong> <br>
+Redação - Redação / Proj. de Vida - Literatura / Fis FGB - Fis FGB <br>
+<br>
+<strong class="inicio__horario__docs__strong">-Quarta-feira</strong> <br>
+Geo - Geo / Qui FGB - Qui FGB / Qui IF - Qui IF <br>
+<br>
+<strong class="inicio__horario__docs__strong">-Quinta-Feira</strong> <br> 
+Bio FGB - Bio FGB / Filo - Mat FGB / Arte - Ing // Eletiva - Eletiva <br>
+<br>
+<strong class="inicio__horario__docs__strong">-Sexta-Feira</strong> <br>
+Prova - Prova / His - His / Ed. Fis - Ed. Fis <br>
+<br>
+<strong class="inicio__horario__docs__strong">-AVISOS-</strong> <br>
+07/03 - Quinta-Feira <br>
+-Apresentação AT de Inglês <br> 
+11/03 - Segunda-Feira <br>
+-Realização AT de Português <br> 
+</p>
