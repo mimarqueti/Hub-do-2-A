@@ -1,16 +1,16 @@
--Segunda-feira
-  Mat IF - Mat IF / Mat FGB - Mat FGB / Bio IF - Bio IF // Port - Port / Fis IF - Fis IF
--Terça-feira
-  Redação - Redação / Proj. de Vida - Literatura / Fis FGB - Fis FGB
--Quarta feira
-  Geo - Geo / Qui FGB - Qui FGB / Qui IF - Qui IF
--Quinta-Feira
-  Bio FGB - Bio FGB / Filo - Mat FGB / Arte - Ing // Eletiva - Eletiva
--Sexta Feira
-  Prova - Prova / His - His / Ed. Fis - Ed. Fis
-
---AVISOS--
-07/03 - Quinta-Feira
-  -Apresentação AT de Inglês
-11/03 - Segunda-Feira
-  -Realização AT de Português
+-Segunda-feira \n
+  Mat IF - Mat IF / Mat FGB - Mat FGB / Bio IF - Bio IF // Port - Port / Fis IF - Fis IF \n
+-Terça-feira \n
+  Redação - Redação / Proj. de Vida - Literatura / Fis FGB - Fis FGB \n
+-Quarta feira \n
+  Geo - Geo / Qui FGB - Qui FGB / Qui IF - Qui IF \n
+-Quinta-Feira \n
+  Bio FGB - Bio FGB / Filo - Mat FGB / Arte - Ing // Eletiva - Eletiva \n
+-Sexta Feira \n
+  Prova - Prova / His - His / Ed. Fis - Ed. Fis \n
+\n
+--AVISOS-- \n
+07/03 - Quinta-Feira \n
+  -Apresentação AT de Inglês \n
+11/03 - Segunda-Feira \n
+  -Realização AT de Português \n
