@@ -1,26 +1,26 @@
-<p class="inicio__horario__docs> 
-  <strong class="inicio__horario__docs__h2">Provas Dissertativas G3</strong>
-  
-  <strong class="inicio__horario__docs__strong">08/03 História </strong>
-  - Independência como processo (Capítulo 1, Frente B)
-  - Primeiro reinado (Capitulo 2, Frente B)
-  - Regência (Capítulo 3, Frente B)
-  
-  <strong class="inicio__horario__docs__strong">08/03 Física</strong>
-  - Capítulo 1: Corrente elétrica, carga elétrica , potência e ddp
-  - Capítulo 2: Lei Ohm (1°) 
-  
-  <strong class="inicio__horario__docs__strong">08/03 Geografia</strong>
-  - Conceitos e teorias demográficas (cap1 F.A)
-  - População brasileira (cap2 F.A)
-  
-  <strong class="inicio__horario__docs__strong">04/03 Mat If</strong>
-  - Função de 1° e 2° grau
-  - Probabilidade
-  
-  <strong class="inicio__horario__docs__strong">06/03 Química IF</strong>
-  - Massa atômica 
-  - Molecular
-  - Molar
-  - Ligações Químicas
+<p> 
+  <strong class="inicio__horario__docs__h2"> Provas Dissertativas G3 - Dissertativa 1° Bim </strong> <br>
+  <br>
+  <strong class="inicio__horario__docs__strong">08/03 História </strong> <br>
+  - Independência como processo (Capítulo 1, Frente B) <br>
+  - Primeiro reinado (Capitulo 2, Frente B) <br>
+  - Regência (Capítulo 3, Frente B) <br>
+  <br>
+  <strong class="inicio__horario__docs__strong">08/03 Física</strong> <br>
+  - Capítulo 1: Corrente elétrica, carga elétrica , potência e ddp <br>
+  - Capítulo 2: Lei Ohm (1°) <br> 
+  <br>
+  <strong class="inicio__horario__docs__strong">08/03 Geografia</strong> <br>
+  - Conceitos e teorias demográficas (cap1 F.A) <br>
+  - População brasileira (cap2 F.A) <br>
+  <br>
+  <strong class="inicio__horario__docs__strong">04/03 Mat If</strong> <br>
+  - Função de 1° e 2° grau <br>
+  - Probabilidade <br>
+  <br>
+  <strong class="inicio__horario__docs__strong">06/03 Química IF</strong> <br>
+  - Massa atômica <br>
+  - Molecular <br>
+  - Molar <br>
+  - Ligações Químicas <br>
 </p>
