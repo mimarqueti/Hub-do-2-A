@@ -1,11 +1,11 @@
 // Array de URLs das páginas
-const url = [
+const urls = [
     'textos/conteudo.txt',
     'textos/conteudoprova.txt',
     // Adicione mais URLs conforme necessário
 ];
 
-const divId = [
+const divIds = [
     'horario',
     'conteudoprova',
 ];
@@ -22,7 +22,6 @@ async function fetchPagina(url, divId) {
     }
 }
 
-for (let i = 0; i < Math.min(url.length, divId.length); i++) {
-    fetchPagina(url[i], divId[i]);
-
-
+for (let i = 0; i < Math.min(urls.length, divIds.length); i++) {
+    fetchPagina(urls[i], divIds[i]);
+}
