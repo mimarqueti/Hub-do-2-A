@@ -1,7 +1,7 @@
 // Array de URLs das páginas
 const urls = [
-    'conteudo.txt',
-    'conteudoprova.txt',
+    'textos/conteudo.txt',
+    'textos/conteudoprova.txt',
     // Adicione mais URLs conforme necessário
 ];
 
