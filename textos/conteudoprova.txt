@@ -1,7 +1,7 @@
 <p class="inicio__horario__docs> 
-  <strong class="inicio__horario__h2">Provas Dissertativas G3</strong>
+  <strong class="inicio__horario__docs__strong">Provas Dissertativas G3</strong>
   
-  <strong class="inicio__horario__docs__strong>8/03 História </strong>
+  <strong class="inicio__horario__docs__strong>08/03 História </strong>
   - Independência como processo (Capítulo 1, Frente B)
   - Primeiro reinado (Capitulo 2, Frente B)
   - Regência (Capítulo 3, Frente B)
