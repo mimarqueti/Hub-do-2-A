@@ -23,4 +23,12 @@
   - Molecular <br>
   - Molar <br>
   - Ligações Químicas <br>
+<br>
+<strong class="inicio__horario__h2">Provas Objetivas G1 - 1°Bim</strong> <br>
+<br>
+<strong class="inicio__horario__docs__strong"> Mat FGB </strong> <br>
+<br>
+-Capítulo 2 - Frente A - Formas de Contagem
+<br>
+-Capítulo 4 - Frente A - Probabilidade
 </p>
