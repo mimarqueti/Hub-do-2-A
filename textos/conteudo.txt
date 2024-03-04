@@ -1,4 +1,9 @@
  <p > 
+<strong class="inicio__horario__docs__strong">-AVISOS-</strong> <br>
+07/03 - Quinta-Feira <br>
+-Apresentação AT de Inglês <br> 
+11/03 - Segunda-Feira <br>
+-Realização AT de Português e checagem de vistos<br> 
 <strong class="inicio__horario__docs__strong">-Segunda-feira </strong> <br>
 Mat IF - Mat IF / Mat FGB - Mat FGB / Bio IF - Bio IF // Port - Port / Fis IF - Fis IF <br>
 <br>
@@ -14,9 +19,5 @@ Bio FGB - Bio FGB / Filo - Mat FGB / Arte - Ing // Eletiva - Eletiva <br>
 <strong class="inicio__horario__docs__strong">-Sexta-Feira</strong> <br>
 Prova - Prova / His - His / Ed. Fis - Ed. Fis <br>
 <br>
-<strong class="inicio__horario__docs__strong">-AVISOS-</strong> <br>
-07/03 - Quinta-Feira <br>
--Apresentação AT de Inglês <br> 
-11/03 - Segunda-Feira <br>
--Realização AT de Português <br> 
+
 </p>
