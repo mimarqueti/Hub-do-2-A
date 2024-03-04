@@ -24,7 +24,7 @@
   - Molar <br>
   - Ligações Químicas <br>
 <br>
-<strong class="inicio__horario__h2">Provas Objetivas G1 - 1°Bim</strong> <br>
+<strong class="inicio__horario__docs__h2">Provas Objetivas G1 - 1°Bim</strong> <br>
 <br>
 <strong class="inicio__horario__docs__strong"> Mat FGB </strong> <br>
 <br>
