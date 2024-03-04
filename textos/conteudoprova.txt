@@ -1,5 +1,5 @@
 <p> 
-  <strong class="inicio__horario__docs__h2"> Provas Dissertativas G3 - Dissertativa 1° Bim </strong> <br>
+  <strong class="inicio__horario__docs__h2"> Provas Dissertativas G3 - 1° Bim </strong> <br>
   <br>
   <strong class="inicio__horario__docs__strong">08/03 História </strong> <br>
   - Independência como processo (Capítulo 1, Frente B) <br>
