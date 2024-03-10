@@ -1,11 +1,10 @@
  <p > 
 <strong class="inicio__horario__docs__strong">-AVISOS-</strong> <br>
-07/03 - Quinta-Feira <br>
--Apresentação AT de Inglês <br> 
-11/03 - Segunda-Feira <br>
--Checagem de vistos<br> 
-14/03 - Quinta-Feira <br>
--Realização AT de Matemática
+<br>
+-18/03 Vistagem de caderno - Português <br>
+-13/03 at química <br>
+-14/03 Finalização AT de Inglês <br>
+-27/04 Fórum <br>
 <br>
 <strong class="inicio__horario__docs__strong">-Segunda-feira </strong> <br>
 Mat IF - Mat IF / Mat FGB - Mat FGB / Bio IF - Bio IF // Port - Port / Fis IF - Fis IF <br>
