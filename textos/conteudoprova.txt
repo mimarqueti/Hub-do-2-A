@@ -1,42 +1,17 @@
 <p> 
-  <strong class="inicio__horario__docs__h2"> Provas Dissertativas G3 - 1° Bim </strong> <br>
-  <br>
-  <strong class="inicio__horario__docs__strong">08/03 História </strong> <br>
-  - Independência como processo (Capítulo 1, Frente B) <br>
-  - Primeiro reinado (Capitulo 2, Frente B) <br>
-  - Regência (Capítulo 3, Frente B) <br>
-  <br>
-  <strong class="inicio__horario__docs__strong">08/03 Física</strong> <br>
-  - Capítulo 1: Corrente elétrica, carga elétrica , potência e ddp <br>
-  - Capítulo 2: Lei Ohm (1°) <br> 
-  <br>
-  <strong class="inicio__horario__docs__strong">08/03 Geografia</strong> <br>
-  - Conceitos e teorias demográficas (cap1 F.A) <br>
-  - População brasileira (cap2 F.A) <br>
-  <br>
-  <strong class="inicio__horario__docs__strong">04/03 Mat If</strong> <br>
-  - Função de 1° e 2° grau <br>
-  - Probabilidade <br>
-  <br>
-  <strong class="inicio__horario__docs__strong">06/03 Química IF</strong> <br>
-  - Massa atômica <br>
-  - Molecular <br>
-  - Molar <br>
-  - Ligações Químicas <br>
-<br>
+
 <strong class="inicio__horario__docs__h2">Provas Objetivas G1 - 1°Bim</strong> <br>
 <br>
 <strong class="inicio__horario__docs__strong"> 15/03 Mat FGB </strong> <br>
 <br>
--Capítulo 2 - Frente A - Formas de Contagem
-<br>
+-Capítulo 2 - Frente A - Formas de Contagem<br>
 -Capítulo 4 - Frente A - Probabilidade <br>
 <br>
 <strong class="inicio__horario__docs__strong"> 15/03 Português</strong> <br>
 <br>
 -Capítulo 1 e 2 - F.A - Predicado <br>
 <br>
-<strong class="inicio__horario__docs__strong">11/03 Fis IF </strong>
+<strong class="inicio__horario__docs__strong">11/03 Fis IF </strong> <br>
 <br>
 -Capítulo 6 F.B - Dilatação térmica dos sólidos <br>
 <br>
@@ -44,4 +19,14 @@
 <br>
 -Capítulo 2 e 3 - F.A - Protozooses e embriologia animal <br>
 -Capítulo 1 - F.B - Classificação dos seres vivos <br>
+<br>
+<strong class="inicio__horario__docs__h2">Provas Objetivas G2 - 1°Bim</strong> <br>
+<br>
+<strong class="inicio__horario__docs__strong"> Arte</strong> <br>
+<br>
+-Capítulos 1, 2 e 3 <br>
+<br>
+<strong class="inicio__horario__docs__strong"> Educação Física </strong> <br>
+<br>
+-Definição de Esporte, Indústria Cultural <br>
 </p>
