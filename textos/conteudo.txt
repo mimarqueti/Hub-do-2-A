@@ -1,9 +1,10 @@
  <p > 
 <strong class="inicio__horario__docs__strong">-AVISOS-</strong> <br>
 <br>
--18/03 Vistagem de caderno - Português <br>
+-11/03 Vistagem de caderno - Português <br>
 -13/03 at química <br>
 -14/03 Finalização AT de Inglês <br>
+-14/03 At de MAtemática FGB <br>
 -27/04 Fórum <br>
 <br>
 <strong class="inicio__horario__docs__strong">-Segunda-feira </strong> <br>
