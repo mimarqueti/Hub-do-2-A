@@ -22,11 +22,11 @@
 <br>
 <strong class="inicio__horario__docs__h2">Provas Objetivas G2 - 1°Bim</strong> <br>
 <br>
-<strong class="inicio__horario__docs__strong"> Arte</strong> <br>
+<strong class="inicio__horario__docs__strong">21/03 Arte</strong> <br>
 <br>
 -Capítulos 1, 2 e 3 <br>
 <br>
-<strong class="inicio__horario__docs__strong"> Educação Física </strong> <br>
+<strong class="inicio__horario__docs__strong">22/03 Educação Física </strong> <br>
 <br>
 -Definição de Esporte, Indústria Cultural <br>
 </p>
