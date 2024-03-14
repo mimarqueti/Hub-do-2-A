@@ -11,15 +11,6 @@
 <br>
 -Capítulo 1 e 2 - F.A - Predicado <br>
 <br>
-<strong class="inicio__horario__docs__strong">11/03 Fis IF </strong> <br>
-<br>
--Capítulo 6 F.B - Dilatação térmica dos sólidos <br>
-<br>
-<strong class="inicio__horario__docs__strong"> 11/03 Bio IF </strong> <br>
-<br>
--Capítulo 2 e 3 - F.A - Protozooses e embriologia animal <br>
--Capítulo 1 - F.B - Classificação dos seres vivos <br>
-<br>
 <strong class="inicio__horario__docs__h2">Provas Objetivas G2 - 1°Bim</strong> <br>
 <br>
 <strong class="inicio__horario__docs__strong">21/03 Arte</strong> <br>
@@ -29,4 +20,13 @@
 <strong class="inicio__horario__docs__strong">22/03 Educação Física </strong> <br>
 <br>
 -Definição de Esporte, Indústria Cultural <br>
+<strong class="inicio__horario__docs__strong">22/03 Química FGB </strong> <br>
+<br>
+Capítulos 3,4 e 5 <br>
+<br>
+<strong class="inicio__horario__docs__strong">22/03Biologia </strong> <br>
+<br>
+Platelmintos <br>
+Nematódeos <br>
+Anelídios <br>
 </p>
