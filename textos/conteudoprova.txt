@@ -1,20 +1,6 @@
 <p> 
-<strong class="inicio__horario__docs__h2">Provas Objetivas G2 - 1°Bim</strong> <br>
+<strong class="inicio__horario__docs__h2"></strong> <br>
 <br>
-<strong class="inicio__horario__docs__strong">21/03 Arte</strong> <br>
-<br>
--Capítulos 1, 2 e 3 <br>
-<br>
-<strong class="inicio__horario__docs__strong">22/03 Educação Física </strong> <br>
-<br>
--Definição de Esporte, Indústria Cultural <br>
-<strong class="inicio__horario__docs__strong">22/03 Química FGB </strong> <br>
-<br>
-Cálculo de Nox, Oxirredução e Pilhas - Capítulos 3,4 e 6 <br>
-<br>
-<strong class="inicio__horario__docs__strong">22/03Biologia </strong> <br>
-<br>
-Platelmintos <br>
-Nematódeos <br>
-Anelídios <br>
+<strong class="inicio__horario__docs__strong">Sem provas próximas :)</strong> <br>
+
 </p>
